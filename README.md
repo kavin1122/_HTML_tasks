@@ -3,10 +3,6 @@
 This repository contains my HTML practice tasks and assignments.  
 The goal of this project is to improve my understanding of **HTML5 structure, semantic elements, tables, forms, and basic webpage layout**.
 
-## 👨‍💻 Author
-**Kavin R**  
-CSE Student  
-
 ## 📚 About the Project
 This repository includes multiple HTML tasks created as part of my learning process in web development.
 
